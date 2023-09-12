@@ -68,7 +68,7 @@ mvn azure-webapp:deploy
 #### Acessando:
 Após o deploy, acesse o link gerado pelo Azure WebApp para acessar o projeto (o link estará disponível nas informações do Deploy no CMD).
 #### Testes:
-Os testes podem ser feitos via postman, importando o arquivo [TourMate Collection .json](./collections/TourMate.postman_collection.json) para o postman.
+Os testes podem ser feitos via postman, importando o arquivo [TourMate Collections](./collections/tm_collections.json) para o postman.
 ## Aviso:
 Altere as credenciais do Banco de Dados no arquivo [application.properties](./src/main/resources/application.properties)
 
