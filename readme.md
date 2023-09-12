@@ -4,6 +4,7 @@
 * [Arquitetura](#Arquitetura)
 * [Benefícios](#Benefícios)
 * [Pricipais funcionalidades](#Funcionalidades)
+
 * <details><summary><a href="#Nuvem">Como rodar o projeto (Nuvem)</a></summary>
 
     * [Clonanado respositório](#Clonando)
@@ -58,7 +59,6 @@ git clone https://github.com/LuisFelipeGM/TourMate-Japetech.git
 ```bash
 az login
 ```
-
 #### BuildDeploy:
 ```bash
 mvn clean install
